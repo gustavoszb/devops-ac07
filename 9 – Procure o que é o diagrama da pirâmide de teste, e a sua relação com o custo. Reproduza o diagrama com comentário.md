@@ -7,3 +7,5 @@ Integração
 São aqueles que atravessam a unidade do código-fonte. Como por exemplo, a comunicação entre duas ou mais classes através de um método.  Se o seu teste depender de uma massa de dados de entrada, você deverá prepará-la antes dos testes e retornar o seu banco de dados ao estado original após o teste.
 Interface e Aceitação
 No topo da pirâmide temos os testes de interface e aceitação. São testes caixa-preta que executam a jornada completa do usuário interagindo com o software.
+
+Gabriel Magry Ferreira  RA:1800847
